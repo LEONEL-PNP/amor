@@ -781,7 +781,7 @@ uptime = process.uptime()
 		
 if (!isRegister) return samu330.sendMessage(from, assistant, image, { quoted: noreg, caption: `😊Hola, ${timeFt}.\n*Yo soy Sam330*, Asistente de *Samu330*!.\n\nAl parecer no estas registrado en _*NyanBot*_, Para registrarte usa el comando: *${prefix}reg*.`, thumbnail: assistant, contextInfo: {"forwardingScore": 999, "isForwarded": true}})
 Menu = `
-➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li
+ৣ››🐰͢⸸ғᴋ᭭-ʟᷤᴇͤᴏͧɴͪᴇͤʟᷤ⸸.li Oℱịcιɑl.li
 🔐Hola *${pushname}* ${timeFt}
 
 Hora: ${jmn}
@@ -801,9 +801,9 @@ ${samu} ✏Prefijo:${samu} [ ${prefix} ]
 ${samu} 🕐Tiempo de actividad:${samu} *${uptime}*
 ${samu} ✅Modo:${samu} *ON*
 ${samu} 👥Grupo:${samu} *${groupName}*
-${samu} 🏆Numero del Dueño wa.me/+529984907794${samu}
+${samu} 🏆Numero del Dueño wa.me/+51917473908${samu}
 
-𝗠𝗬 𝗖𝗔𝗡𝗔𝗟 𝗗𝗘 𝗬𝗢𝗨𝗧𝗨.𝗕𝗘: https://youtu.be/chMc57gjmkI
+𝗠𝗬 𝗖𝗔𝗡𝗔𝗟 𝗗𝗘 𝗬𝗢𝗨𝗧𝗨.𝗕𝗘: ♡♡♡
 
 ⍣ *BOT INFO* ⍣
 ${samu}◦ 🌐Navegador :${samu} *${samu330.browserDescription[1]}*
@@ -884,7 +884,7 @@ stc = `╭⸻⃞✫꯭𝙈꯭𝙀꯭𝙉꯭𝙐꯭✫⃞⸻╮
 │ _Stiker a gif_
 ╰─────────────╮
 ╭─────────────┴╮
-│ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li 
+ৣ››🐰͢⸸ғᴋ᭭-ʟᷤᴇͤᴏͧɴͪᴇͤʟᷤ⸸.li Oℱịcιɑl.li 
 ╰──────────────╯`
 samu330.sendMessage(from, stc, MessageType.text, {quoted:
 { key: {
@@ -963,7 +963,7 @@ mda = `
 ╒╩════════════
 ╰──────────────╮
 ╭──────────────┴╮
-│ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li🌴
+ৣ››🐰͢⸸ғᴋ᭭-ʟᷤᴇͤᴏͧɴͪᴇͤʟᷤ⸸.li Oℱịcιɑl.li🌴
 ╰───────────────╯`
 samu330.sendMessage(from, mda, MessageType.text, {quoted:
 { key: {
@@ -1663,7 +1663,7 @@ ggsm += `
 `
 }
 var nyangg = ggsm.trim()
-reply(`*🔍Busqueda realizada por* 🐉Samu330🐉\n\n${nyangg}`)
+reply(`*🔍Busqueda realizada por* ৣ››🐰͢⸸ғᴋ᭭-ʟᷤᴇͤᴏͧɴͪᴇͤʟᷤ⸸\n\n${nyangg}`)
 break
 			
 case 'imagen':
